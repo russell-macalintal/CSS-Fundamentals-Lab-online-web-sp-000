@@ -32,10 +32,6 @@ figcaption {
   text-align: center;
 }
 
-/*#details {
-  display: block;
-}*/
-
 #details div {
   background-color: red;
   display: block;
