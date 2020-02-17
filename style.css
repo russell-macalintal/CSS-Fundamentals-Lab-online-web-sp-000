@@ -32,6 +32,10 @@ figcaption {
   text-align: center;
 }
 
-/*#details {
+#details {
   display: block;
-}*/
+}
+
+#details div {
+  float: left;
+}
